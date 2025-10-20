@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-img-logo {
+    height: 50px;
+    width: 140px;
+}
+
+#navitem1 {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+
+#navitem2 {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+
+#navitem3 {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+
+#navitem4 {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+
+#navitem5 {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+
+.diwali-banner-section {
+    height: 100vh;
+}
+
+.services-section-bg-container {
+    font-family: Roboto;
+    ;
+}
+
+
+.services-heading-section {
+    font-size: 40px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.Services-description {
+    font-size: 23px;
+    color: #616c7c;
+}
+
+.services-card-img {
+    height: 150px;
+    width: 150px;
+}
+
+.services-card-heading-font {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.services-card-description-font {
+    font-size: 20px;
+}
+
+.product-section-bg-container {
+    font-family: Roboto;
+}
+
+
+.product-section-heading {
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.product-bg-container1 {
+    background-image: url('./imageSrc/ecommerce-products-headphones-bg.png');
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.product-container-heading {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.product-container-description {
+    font-size: 19px;
+    color: white;
+}
+
+.product-detailed-button {
+    height: 40px;
+    width: 130px;
+    border-radius: 15px;
+    background-color: white;
+    border-width: 0px;
+    color: #ff9f00;
+}
+
+.product-bg-container2 {
+    background-image: url('./imageSrc/ecommerce-products-laptops-bg.png');
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.modal-title-bold {
+    font-weight: bold;
+}
+
+.modal-title-style {
+    font-weight: bold;
+}
+
+.offers-section-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offers-section-heading {
+    font-family: bree serif;
+    color: #ad2167;
+    font-weight: 500;
+}
+
+.offers-section-description {
+    color: white;
+    font-size: 28px;
+}
+
+.offer-decription-discount {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.offer-discount-img {
+    height: 120px;
+}
+
+.blog-section-bg-container {
+    font-family: Roboto;
+}
+
+.blog-main-heading {
+    font-size: 45px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.blog-card-container {
+    border-radius: 16px;
+}
+
+.blog-card-title {
+    font-size: 20px;
+    color: #959ead;
+}
+
+.blog-card-main-heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.description-font-size {
+    font-size: 28px;
+}
+
+.blog-card-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+.deal-section-bg-container {
+    background-color: #f5f7fa;
+    font-family: Roboto;
+}
+
+.deal-section-main-heading {
+    font-size: 45px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.deal-electronics-card {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.deal-electronics-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.deal-offers-electronics-img {
+    border-radius: 15px;
+}
+
+.deal-electronics-card-title {
+    font-size: 25px;
+}
+
+.deal-section-link {
+    font-size: 20px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.deal-tv-img {
+    border-radius: 15px;
+    width: 90%;
+}
+
+.contact-section-bg-container {
+    background-image: linear-gradient(to top, #664935, #240f01);
+}
+
+
+.contact-section-heading {
+    font-size: 35px;
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+}
+
+.contact-button {
+    height: 60px;
+    width: 180px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    border-width: 3px;
+    font-size: 20px;
+}
+
+
+.footer-section-bg-container {
+    background-color: #152c3e;
+    font-family: Roboto;
+}
+
+.footer-icon-style {
+    font-size: 30px;
+    color: #5a7184;
+}
+
+.footer-icon-bg-container {
+    height: 60px;
+    width: 60px;
+    background-color: #0d2436;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.footer-section-logo {
+    height: 70px;
+}
+
+
+.footer-address-section {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 400;
+}
+
+.footer-section-main-heading {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer-list-type {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.footer-horizontal-line {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width: 90%;
+}

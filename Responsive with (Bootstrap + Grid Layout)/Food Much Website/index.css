@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("./imageSrc/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+    transition: all 0.2s ease, border-width 0s ease;
+}
+
+.custom-outline-button:hover {
+    background-color: green;
+    border-width: 0px;
+    color: white;
+}
+
+.wcu-background-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-main-heading {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: roboto;
+}
+
+.wcu-section-main-description {
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: 500;
+}
+
+.wcu-section-card {
+    background-color: white;
+    text-align: center;
+    font-family: roboto;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d6d6d6;
+    height: 100%;
+}
+
+.wcs-section-card-heading {
+    font-size: 26px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.wcu-section-card-description {
+    font-size: 17px;
+    color: #7b8794;
+}
+
+.discount-style {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+.explore-main-heading {
+    font-size: 32px;
+    font-family: Roboto;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.explore-image-section {
+    border-radius: 10px;
+    transition: transform 0.5s ease;
+    cursor: pointer;
+}
+
+.explore-image-section:hover {
+    transform: scale(1.1);
+}
+
+.explore-image-section-title {
+    font-size: 18px;
+    font-family: roboto;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.explore-image {
+    border-radius: 10px;
+}
+
+.explore-section-link {
+    color: #d0b200;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.health-food-background-section {
+    background-color: #f9fbfe;
+}
+
+
+.health-section-image {
+    text-align: center;
+}
+
+.health-food-main-heading {
+    font-size: 23px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.health-food-description {
+    font-size: 15px;
+    font-family: roboto;
+    color: #5a7184;
+}
+
+.health-food-section-button {
+    height: 34px;
+    width: 120px;
+    border-radius: 7px;
+    background-color: #d0b200;
+    color: white;
+    font-size: 14px;
+    font-family: roboto;
+    border-width: 0px;
+}
+
+.delivery-image {
+    height: 50px;
+}
+
+.gift-background-section {
+    background-color: #d0b2001a;
+}
+
+
+
+.gift-section-main-heading {
+    font-size: 25px;
+    color: #183b56;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.gift-section-description {
+    font-size: 17px;
+    color: #5a7184;
+    font-family: roboto;
+}
+
+.follow-main-heading {
+    font-weight: bold;
+    font-family: roboto;
+}
+
+.follow-section-icon {
+    font-size: 40px;
+    color: #d0b200;
+}
+
+.icon-bg-container {
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding: 16px;
+    text-align: center;
+    border-radius: 40px;
+}
